@@ -2,7 +2,7 @@ package gameloop_test
 
 import (
     "testing"
-	gameloop "github.com/ThePrimeagen/tyrone-biggums/pkg/game_loop"
+	gameloop "github.com/m-rphy/go-server-benchmark/pkg/game_loop"
 )
 
 func TestAABBCollision(t *testing.T) {

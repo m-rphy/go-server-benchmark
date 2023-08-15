@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ThePrimeagen/tyrone-biggums/pkg/stats"
+	"github.com/m-rphy/go-server-benchmark/pkg/stats"
 	"github.com/gorilla/websocket"
 )
 

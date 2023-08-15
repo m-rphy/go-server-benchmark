@@ -3,7 +3,7 @@ package gameloop
 import (
 	"time"
 
-	"github.com/ThePrimeagen/tyrone-biggums/pkg/server"
+	"github.com/m-rphy/go-server-benchmark/pkg/server"
 )
 
 type WaitForReadyResults struct {

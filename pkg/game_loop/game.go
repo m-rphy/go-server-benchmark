@@ -3,8 +3,8 @@ package gameloop
 import (
 	"time"
 
-	"github.com/ThePrimeagen/tyrone-biggums/pkg/server"
-	"github.com/ThePrimeagen/tyrone-biggums/pkg/stats"
+	"github.com/m-rphy/go-server-benchmark/pkg/server"
+	"github.com/m-rphy/go-server-benchmark/pkg/stats"
 )
 
 type Game struct {

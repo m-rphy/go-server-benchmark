@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	gameloop "github.com/ThePrimeagen/tyrone-biggums/pkg/game_loop"
-	"github.com/ThePrimeagen/tyrone-biggums/pkg/server"
+	gameloop "github.com/m-rphy/go-server-benchmark/pkg/game_loop"
+	"github.com/m-rphy/go-server-benchmark/pkg/server"
 )
 
 var addr = flag.String("addr", "0.0.0.0:42069", "http service address")

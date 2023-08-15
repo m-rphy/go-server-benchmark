@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	gameloop "github.com/ThePrimeagen/tyrone-biggums/pkg/game_loop"
-	"github.com/ThePrimeagen/tyrone-biggums/pkg/server"
+	gameloop "github.com/m-rpy/go-server-benchamrk/pkg/game_loop"
+	"github.com/m-rpy/go-server-benchamrk/pkg/server"
 )
 
 func TestWaitForReady(t *testing.T) {
